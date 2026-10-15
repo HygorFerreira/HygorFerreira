@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HygorFerreira&bg_color=0d1117&color=e5e7eb&line=f97316&point=ffffff&area=true&area_color=f97316&hide_border=true" alt="Gráfico de contribuições" />
+<a href="https://github.com/HygorFerreira?tab=overview"><img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HygorFerreira&theme=github_dark&bg_color=0D1117&title_color=F97316&chart_color=F97316&text_color=E5E7EB&border_color=0D1117" alt="Histórico de atividades e contribuições no GitHub" /></a>
 
 <br>
 
